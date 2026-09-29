@@ -10,7 +10,7 @@ Welcome to the official support page for **BlinkFit**, the eye‑care app that t
 
 Need help? Have feedback? We’d love to hear from you.
 
-- **Email:** [adrenalinesoftware@gmail.com](mailto:adrenalinesoftware@gmail.com)  
+- **Email:** [softwareadrenaline@gmail.com](mailto:softwareadrenaline@gmail.com)  
 - **Phone / WhatsApp:** +91 8381051875  
 
 We’ll respond as quickly as we can.
