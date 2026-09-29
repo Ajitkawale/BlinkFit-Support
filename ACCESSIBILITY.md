@@ -19,7 +19,7 @@ If you prefer not to use the camera or if detection is difficult, you can comple
 
 ## Need Help?
 If you have questions or encounter accessibility barriers, please contact us:
-- Email: [adrenalinesoftware@gmail.com](mailto:adrenalinesoftware@gmail.com)
+- Email: [softwareadrenaline@gmail.com](mailto:softwareadrenaline@gmail.com)
 - Phone: +91 8381051875
 
 We’re committed to making BlinkFit accessible to all.
