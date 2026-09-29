@@ -24,5 +24,5 @@ If this policy changes, we will update the “Last updated” date above. Contin
 
 Contact
 If you have any questions, please contact:
-Email: adrenalinesoftware@gmail.com
+Email: softwareadrenaline@gmail.com
 Phone: +91 8381051875
